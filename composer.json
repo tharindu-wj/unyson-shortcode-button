@@ -1,6 +1,6 @@
 {
     "name": "tharindu93/unyson-shortcode-button", 
-    "type": "unyson-shortcode",
+    "type": "wordpress-plugin",
     "license": ["GPL-2.0"],
     
     "description": "Normal button shortcode for WordPress unyson framework",
