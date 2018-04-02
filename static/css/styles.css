@@ -1,0 +1,26 @@
+.e25-button{
+	padding: 16px 5px;
+	text-align: center;
+	display: block;
+	text-transform: uppercase;
+	text-decoration: none;
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 16px;
+	position: relative;
+}
+
+.e25-button span{
+
+}
+
+.e25-button span i.right{
+	position: absolute;
+	right: 15px;
+}
+
+.e25-button span i.left{
+	position: absolute;
+	left: 15px;
+}
+
